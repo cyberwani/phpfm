@@ -1,0 +1,1 @@
+Features: server info, directory tree, copy/move/delete/create/rename/edit/view/chmod files and folders, tar/zip/bzip/gzip, multiple uploads, shell/exec, works on linux/windows
